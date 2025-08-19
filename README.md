@@ -23,7 +23,7 @@
 
 ### 示例
 
-[Click to my Blog][https://snowmiku-home.top/]
+[【我的个人主页】](https://snowmiku-home.top/)
 
 ---
 由社区以 ❤️ 制作。
@@ -51,7 +51,7 @@ Whether you're looking to create an audio version of your blog posts or just wan
 
 ### Example
 
-[Click to my Blog][https://snowmiku-home.top/]
+[Click to my Blog](https://snowmiku-home.top/)
 
 ---
 Made with ❤️ by the community.
